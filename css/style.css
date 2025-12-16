@@ -1,6 +1,11 @@
 h2 {
     color: brown;
 }
-p {
+p 
+{
     background-color: olivedrab;
+}
+h1 {
+    color: lightgray;
+    background-color: rebeccapurple;
 }
